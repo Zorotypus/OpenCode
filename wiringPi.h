@@ -20,6 +20,8 @@
  *    along with wiringPi.  If not, see <http://www.gnu.org/licenses/>.
  ***********************************************************************
  */
+ 
+ #define 123
 
 #ifndef	__WIRING_PI_H__
 #define	__WIRING_PI_H__
